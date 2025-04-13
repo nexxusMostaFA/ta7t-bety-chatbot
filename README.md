@@ -140,8 +140,8 @@ Response:
 3. Set up environment variables or update connection string in the code:
    ```python
    # Example MongoDB connection string in the code
-   client = pymongo.MongoClient("mongodb+srv://projectDB:PEyHwQ2fF7e5saEf@cluster0.43hxo.mongodb.net/", 
-                             serverSelectionTimeoutMS=5000)
+   client = pymongo.MongoClient("mongodb+srv**************************************", 
+                            %%%%%%%%%%%%%%%%%%=5000)
    ```
 
 4. Update the text file path:
