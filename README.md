@@ -188,7 +188,7 @@ The application includes comprehensive error handling:
 ## Project Structure
 
 ```
-├── app.py             # Main application file
+├── chat.py             # Main application file
 ├── faiss_index/       # Directory for storing FAISS index
 ├── requirements.txt   # Dependencies
 └── README.md          # Project documentation
